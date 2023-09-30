@@ -1,0 +1,6 @@
+username: 'Timka'
+password: '625dea530b'
+
+url_login: 'https://test-stand.gb.ru/gateway/login'
+url_post: 'https://test-stand.gb.ru/api/posts'
+
